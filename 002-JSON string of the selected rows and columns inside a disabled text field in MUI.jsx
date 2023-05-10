@@ -40,7 +40,6 @@ export default function App() {
 //Inside the App component,
 //we render a TextField component with an id of "json-text-field", 
 //a label of "Selected Rows and Columns", a value of the json variable, and a disabled prop of true.
-
 //When the component is rendered, 
 //the text field will display the JSON string of the filtered rows, 
 //and the user will not be able to edit the text field.
